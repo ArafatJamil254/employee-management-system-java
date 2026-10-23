@@ -1,0 +1,8 @@
+EMP-101	Nadia Rahman	Design	UI Designer	nadia@example.test	01710000001	52000.0
+EMP-102	Fahim Ahmed	Engineering	Software Developer	fahim@example.test	01710000002	72000.0
+EMP-103	Samira Khan	Finance	Accountant	samira@example.test	01710000003	49000.0
+EMP-104	Tanvir Islam	Operations	Operations Officer	tanvir@example.test	01710000004	43000.0
+EMP-105	Mim Akter	Engineering	QA Engineer	mim@example.test	01710000005	58000.0
+EMP-106	Arif Hasan	Human Resources	HR Associate	arif@example.test	01710000006	46000.0
+EMP-107	Ayesha Noor	Design	Visual Designer	ayesha@example.test	01710000007	55000.0
+EMP-108	Zubair Hossain	Engineering	System Administrator	zubair@example.test	01710000008	65000.0

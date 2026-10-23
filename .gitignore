@@ -1,0 +1,17 @@
+# Java build output
+*.class
+*.jar
+/out/
+/build/
+/dist/
+
+# Local records and temporary files
+/data/
+/.employee-desk/
+*.tmp
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
