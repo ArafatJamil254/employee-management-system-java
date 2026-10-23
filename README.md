@@ -84,4 +84,3 @@ javac -encoding UTF-8 -cp out -d out tests/EmployeeUITest.java
 java -cp out EmployeeUITest
 ```
 
-The original coursework design and the reasons for the changes are outlined in [PROJECT_NOTES.md](PROJECT_NOTES.md).
